@@ -10,6 +10,9 @@
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Groetjes van Jan!");
             Console.ResetColor();
+            Console.WriteLine("alsbfkwbsfknaelk,kefnjaknfk,abf,kj,awwf " +
+                "");
+
         }
     }
 }
